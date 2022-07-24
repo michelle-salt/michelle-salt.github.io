@@ -3763,6 +3763,9 @@
   .bx-file:before {
     content: "\ed38";
   }
+  .bx-music-note-list:before {
+    content: "\ed38";
+  }
   .bx-file-blank:before {
     content: "\ed39";
   }
